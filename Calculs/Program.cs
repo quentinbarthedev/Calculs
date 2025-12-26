@@ -42,7 +42,7 @@ namespace Calculs
                             {
                                 Console.Write(val1 + " + " + val2 + " = ");
                                 reponse = int.Parse(Console.ReadLine());
-                                correct = false;
+                                correct = true;
                             }
                             catch
                             {
